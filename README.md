@@ -4,7 +4,11 @@ A simple flutter project that demonstrates how safe your WhatsApp Sent images re
 
 ## How To
 
-Switch to the this folder and run flutter create .
+Switch to the this folder and run 
+
+```dart
+flutter create .
+```
 
 How it works: 
 
