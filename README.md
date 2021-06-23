@@ -1,6 +1,6 @@
 # vending
 
-A simple flutter project that demonstrates how safe your WhatsApp Sent images really are on device.
+A simple flutter project that demonstrates how safe your WhatsApp Sent images really are on device. You'll find some hardcoded values in the code, that's because the background task would run separately and wouldn't have access to local variables. For demonstration purposes, this was the fastest way to get everything working. 
 
 ## How To
 
